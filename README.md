@@ -22,3 +22,11 @@
                     this.results = response.data; // 绑定数据
 ```
 这里的this.results我写成了this.result少了个s
+
+
+3、<font color=red>net::ERR_ ABORTED 404</font>
+
+https://blog.csdn.net/qq_21040559/article/details/109472409
+
+4、<font color=red>Could not load content for http://localhost:1111/js/axios.min.map: HTTP error: status code 404</font>
+https://blog.csdn.net/qq_21040559/article/details/109472612
