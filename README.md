@@ -15,7 +15,7 @@
 
 
 2、
-```html
+```js
         // 对接接口
                 axios.get('search/' + keyword + "/1/10").then(response => {
                     console.log(response);
